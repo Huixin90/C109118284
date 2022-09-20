@@ -60,3 +60,7 @@ strong emphasis,aka bold,with ***asterisks*** or ***underscores***.
 
 strikethrough uses two tildes.~~scratch this~~.
 
+|name |age |city |
+|:----|:--:|----:|
+|Ann  |18  |Taipei|
+|David|19  |Taoyuan|
