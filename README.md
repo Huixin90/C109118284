@@ -48,3 +48,10 @@ big
 s = "this is a example"
 print(s)
 ```
+
+*emphasis,aka italics,with asterisks or underscores.*
+
+strong emphasis,aka bold,with ***asterisks*** or ***underscores***.
+
+strikethrough uses two tildes.~~scratch this~~.
+
