@@ -49,6 +49,11 @@ s = "this is a example"
 print(s)
 ```
 
+```javascript
+var s = "javascript syntax highlighting";
+alert(s);
+```
+
 *emphasis,aka italics,with asterisks or underscores.*
 
 strong emphasis,aka bold,with ***asterisks*** or ***underscores***.
