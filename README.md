@@ -64,3 +64,7 @@ strikethrough uses two tildes.~~scratch this~~.
 |:----|:--:|----:|
 |Ann  |18  |Taipei|
 |David|19  |Taoyuan|
+
+1. first ordered list item
+2. second
+   
