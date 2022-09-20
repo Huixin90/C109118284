@@ -64,6 +64,7 @@ strikethrough uses two tildes.~~scratch this~~.
 |:----|:--:|----:|
 |Ann  |18  |Taipei|
 |David|19  |Taoyuan|
+|Ian  |20  |Tainan|
 
 1. first 
 2. second
