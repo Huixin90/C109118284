@@ -25,11 +25,6 @@ big
 
 >>2.3
 
->3rd
->>3.1
-
->>3.2
-
 * 1st
 * 2nd
 * 3rd
@@ -46,3 +41,10 @@ big
 
 ![NKUST](nkust.png "高科大")
 
+- [ ] to do list
+- [x] 2nd
+
+```python
+s = "this is a example"
+print(s)
+```
