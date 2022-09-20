@@ -4,12 +4,12 @@
 #### 2022-2b C109118284 蘇卉忻
 ##### 2022-2b C109118284 蘇卉忻
 
-ˋ small ˋ
+`small`
 
-ˋˋˋ
+```
 big
 big
-ˋˋˋ
+```
 
 --------
 
@@ -40,7 +40,9 @@ big
 2. aaa
 3. zzz
 
+:smile: :wink:
+
 [NKUST](http://www.nkust.edu.tw)
 
-ˋˋˋˋ
+
 
